@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/customLib/go-xorm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lanlan-go-xorm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lanlan-library/micro-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/micro/micro-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xiaoshijie.com/go-xorm" vcs="Git" />
+  </component>
+</project>
